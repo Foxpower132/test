@@ -4,3 +4,4 @@ for i in n:
         print(j, end=' ')
     print()
 
+print("Nice work!")
