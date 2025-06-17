@@ -5,3 +5,4 @@ for i in n:
     print()
 
 print("Nice work!")
+print("Good Job!")
